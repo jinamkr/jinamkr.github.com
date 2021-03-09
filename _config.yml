@@ -246,6 +246,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+java_archive:
+  type: liquid
+  path: /java/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
